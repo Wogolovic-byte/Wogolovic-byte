@@ -12,8 +12,8 @@
     <div class="top-nav">
         <div class="container">
             <ul class="left-nav">
-                <li><a href="#"><i class="fas fa-envelope"></i> info@ulhsmbale.ac.ug</a></li>
-                <li><a href="#"><i class="fas fa-phone"></i> +256 772 123 456</a></li>
+                <li><a href="#"><i class="fas fa-envelope"></i> olovictonious@gmail.com</a></li>
+                <li><a href="#"><i class="fas fa-phone"></i> +256 762779841</a></li>
             </ul>
             <ul class="right-nav">
                 <li><a href="#"><i class="fas fa-question-circle"></i> Help</a></li>
@@ -184,8 +184,61 @@
                     </div>
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
+
                 
                 <!-- Product 3 -->
+                <div class="product-card">
+                    <img src="math-textbook.jpg" alt="chemistry Textbook">
+                    <h3>Mathematics S.1 Textbook</h3>
+                    <div class="price">UGX 35,000</div>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(18)</span>
+                    </div>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+            
+                <!-- Product 4 -->
+                <div class="product-card">
+                    <img src="math-textbook.jpg" alt="biology Textbook">
+                    <h3>Mathematics S.1 Textbook</h3>
+                    <div class="price">UGX 35,000</div>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(18)</span>
+                    </div>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+
+               
+                <!-- Product 5 -->
+                <div class="product-card">
+                    <img src="math-textbook.jpg" alt="physics Textbook">
+                    <h3>Mathematics S.1 Textbook</h3>
+                    <div class="price">UGX 35,000</div>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <span>(18)</span>
+                    </div>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                
+                <!-- Product 6 -->
                 <div class="product-card">
                     <div class="product-badge">NEW</div>
                     <img src="admission-form.jpg" alt="Admission Form">
@@ -202,7 +255,7 @@
                     <button class="add-to-cart">Add to Cart</button>
                 </div>
                 
-                <!-- Product 4 -->
+                <!-- Product 7 -->
                 <div class="product-card">
                     <img src="sports-uniform.jpg" alt="Sports Uniform">
                     <h3>Sports Uniform</h3>
